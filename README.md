@@ -16,11 +16,11 @@ https://docs.ultralytics.com
 ---
 
 ## 1. Live Inference with Streamlit Application using Ultralytics YOLO11
-`![caption](./ex1_1.png)`
+![caption](./ex1_1.png)
 ## 2. Distance Calculation using Ultralytics YOLO11
-`![caption](./ex2.png)`
+![caption](./ex2.png)
 ## 3. TrackZone using Ultralytics YOLO11
-`![caption](./ex3.png)`
+![caption](./ex3.png)
 ---
 
 ## Installation
